@@ -1,2 +1,2 @@
 curl -fsSL https://deno.land/x/install/install.sh | sh
-deno run --allow-write ./build.ts
+/opt/buildhome/.deno/bin/deno run --allow-write ./build.ts
